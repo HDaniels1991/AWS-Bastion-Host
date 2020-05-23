@@ -3,6 +3,8 @@
 
 ## Introduction
 
+This repo contains the required infrastructure to connect to an AWS Instance in a private subnet over a bastion host.
+
 ## SSH Config File
 
 ```
